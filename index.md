@@ -8,7 +8,7 @@
 
 ``` python
 d = {
-'apple: 1,
+'apple': 1,
 'banana': 2
 }
 ```
